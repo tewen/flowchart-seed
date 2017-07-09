@@ -1,0 +1,21 @@
+{
+  "name": "flowchart-seed",
+  "version": "0.0.0",
+  "description": "Sometimes I need to create flowcharts. This is a quick seed to get up and running.",
+  "scripts": {
+    "start": "node_modules/.bin/httpster"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tewen/flowchart-seed.git"
+  },
+  "author": "Trevor Ewen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tewen/flowchart-seed/issues"
+  },
+  "homepage": "https://github.com/tewen/flowchart-seed#readme",
+  "devDependencies": {
+    "httpster": "1.0.3"
+  }
+}
